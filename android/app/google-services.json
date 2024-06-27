@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119791942255",
+    "project_id": "iotbulbe",
+    "storage_bucket": "iotbulbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119791942255:android:e814048bdba039471d2b9a",
+        "android_client_info": {
+          "package_name": "com.example.iot_bulbe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoXSGeo4lJ8GRwTPljEieHUXSyyuW9zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
